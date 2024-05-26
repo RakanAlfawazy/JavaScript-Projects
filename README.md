@@ -1,2 +1,2 @@
 # JavaScript-Projects
-Vanilla JavaScript Learning Projects
+A collection of Vanilla JavaScript projects I used for learning
